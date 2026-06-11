@@ -1,1 +1,72 @@
-{}
+{
+    "ORD0001": {
+        "status": "DELIVERED",
+        "customer": "Sneha Patel",
+        "restaurant": "Sizzling Plate",
+        "item": "Garlic Bread",
+        "timestamp": "2026-06-11T06:02:11.424980+00:00"
+    },
+    "ORD0003": {
+        "status": "DELIVERED",
+        "customer": "Pooja Verma",
+        "restaurant": "Fresh Fork",
+        "item": "Veg Burger",
+        "timestamp": "2026-06-11T06:02:11.427607+00:00"
+    },
+    "ORD0009": {
+        "status": "DELIVERED",
+        "customer": "Varun Sai",
+        "restaurant": "Fresh Fork",
+        "item": "French Fries",
+        "timestamp": "2026-06-11T06:02:11.430617+00:00"
+    },
+    "ORD0010": {
+        "status": "DELIVERED",
+        "customer": "Sandeep Das",
+        "restaurant": "Ocean Grill",
+        "item": "Paneer Butter Masala",
+        "timestamp": "2026-06-11T06:02:11.431616+00:00"
+    },
+    "ORD0008": {
+        "status": "DELIVERED",
+        "customer": "Ananya Singh",
+        "restaurant": "Hungry Bowl",
+        "item": "Lemonade",
+        "timestamp": "2026-06-11T06:02:11.430617+00:00"
+    },
+    "ORD0002": {
+        "status": "DELIVERED",
+        "customer": "Varun Sai",
+        "restaurant": "Fusion Flavors",
+        "item": "Fried Rice",
+        "timestamp": "2026-06-11T06:02:11.426989+00:00"
+    },
+    "ORD0004": {
+        "status": "DELIVERED",
+        "customer": "Anjali Mehta",
+        "restaurant": "Street Eats",
+        "item": "Butter Chicken",
+        "timestamp": "2026-06-11T06:02:11.427607+00:00"
+    },
+    "ORD0005": {
+        "status": "DELIVERED",
+        "customer": "Ananya Singh",
+        "restaurant": "Taste Express",
+        "item": "Fried Rice",
+        "timestamp": "2026-06-11T06:02:11.428613+00:00"
+    },
+    "ORD0006": {
+        "status": "DELIVERED",
+        "customer": "Meera Kapoor",
+        "restaurant": "Tandoori Treats",
+        "item": "Fried Rice",
+        "timestamp": "2026-06-11T06:02:11.429613+00:00"
+    },
+    "ORD0007": {
+        "status": "DELIVERED",
+        "customer": "Yash Patel",
+        "restaurant": "Biryani Corner",
+        "item": "Vada",
+        "timestamp": "2026-06-11T06:02:11.429613+00:00"
+    }
+}
