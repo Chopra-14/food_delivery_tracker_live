@@ -583,6 +583,7 @@ async function fetchAnalytics() {
 }
 
 // Set up UI listeners
+
 function initListeners() {
     document.getElementById('searchInput').addEventListener('input', (e) => {
         searchQuery = e.target.value.toLowerCase().trim();
